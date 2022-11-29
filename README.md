@@ -55,8 +55,8 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 
 # Recommended YouTube channels about testing
 
-* TestITka - https://www.youtube.com/channel/UCrl6b8MxVxuW06Jba0XYZSg
-* Testowanie oprogramowania podcast - https://www.youtube.com/playlist?list=PLKQUQ-h24rffw7uDYY1xC87c76P93A758
+* [TestITka](https://www.youtube.com/channel/UCrl6b8MxVxuW06Jba0XYZSg)
+* [Testowanie oprogramowania podcast](https://www.youtube.com/playlist?list=PLKQUQ-h24rffw7uDYY1xC87c76P93A758)
 
 
 # Testing and programming projects I participate
@@ -78,6 +78,6 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 
 # My projects - testing documentation
 
-* Tests for web application iPrzedszkole on Trello - https://trello.com/b/UElPfCQQ
+* [Tests for web application iPrzedszkole on Trello](https://trello.com/b/UElPfCQQ)
 
 
