@@ -24,7 +24,7 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 *test reports
 *basic plan of tests
 * basic REST API architecture knowledge
-* * SQL
+* SQL
 * Python
 * GIT
 
@@ -46,12 +46,12 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 * Programuj dziewczyno
 
 # Recommended blogs
-* [testerzy.pl]
-* [testuj.pl] - Test, Bugs & Rock'n'Roll
-* [pwicherski.gitbook.io]
-* [http://cherry-it.pl/]
-* [https://www.wyszkolewas.com.pl/]
-* [https://www.flynerd.pl/]
+[testerzy.pl]
+[testuj.pl] - Test, Bugs & Rock'n'Roll
+[pwicherski.gitbook.io]
+[http://cherry-it.pl/]
+[https://www.wyszkolewas.com.pl/]
+[https://www.flynerd.pl/]
 
 # Recommended YouTube channels about testing
 
@@ -59,7 +59,7 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 * Testowanie oprogramowania podcast - [https://www.youtube.com/playlist?list=PLKQUQ-h24rffw7uDYY1xC87c76P93A758]
 
 
-# Free testing and programming projects I participate
+# Testing and programming projects I participate
 
 * Cherry IT - non-comerciat testing project  (19th October 2022 – 14th December 2022)
 *prepared test cases
