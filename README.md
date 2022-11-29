@@ -76,7 +76,7 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
   * developmend in Visual Studio Code editor
   * learned and practiced working using GIT system
 
-# My projects
+# My projects - testing documentation
 
 * Tests for web application iPrzedszkole on Trello - https://trello.com/b/UElPfCQQ
 
