@@ -46,12 +46,12 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 * Programuj dziewczyno
 
 # Recommended blogs
-* testerzy.pl
-* testuj.pl - Test, Bugs & Rock'n'Roll
-* pwicherski.gitbook.io
+* https://testerzy.pl/
+* https://pwicherski.gitbook.io/testowanie-oprogramowania/auto
 * http://cherry-it.pl/
 * https://www.wyszkolewas.com.pl/
 * https://www.flynerd.pl/
+* https://www.wakeupandcode.pl/programuj-dziewczyno/
 
 # Recommended YouTube channels about testing
 
