@@ -34,21 +34,22 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 
 # Courses
 
-* ISTQB Course Fundacja IT, Szczecin 2018
-* Python Programming Course, Fundacja IT, Szczecin 2021
-* SQL from beginner to and expert Course, September-November 2022
+* ISTQB course Fundacja IT, Szczecin 2018
+* Python programming course, Fundacja IT, Szczecin 2021
+* SQL from beginner to and expert course, September-November 2022
 * Potman basics course, September-November 2022
 
 # Groups on Facebook
 
-* Tester oprogramowania - wsparcie na starcie
-* Testowanie oprogramowania
-* Programuj dziewczyno
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/417833158717454)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)
+* [Programuj dziewczyno](https://www.facebook.com/groups/1361091490641914)
 
 # Recommended blogs
 * https://testerzy.pl/
 * https://pwicherski.gitbook.io/testowanie-oprogramowania/auto
 * http://cherry-it.pl/
+* https://szkoleniedlaqa.pl/
 * https://www.wyszkolewas.com.pl/
 * https://www.flynerd.pl/
 * https://www.wakeupandcode.pl/programuj-dziewczyno/
