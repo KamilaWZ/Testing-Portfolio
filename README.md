@@ -29,8 +29,8 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 * GIT
 
 # Certificates
-* ISTQB - No. 59938
-* PCEP - Cerified Entry Level Python Programmer 
+* [ISTQB - No. 59938](http://scr.istqb.org/?name=Kamila+Walaszczyk-Ziomek&number=59938&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
+* [PCEP - Cerified Entry Level Python Programmer](https://www.credly.com/badges/db85fb42-345a-4112-8735-ccc37c455266?source=linked_in_profile)
 
 # Courses
 
