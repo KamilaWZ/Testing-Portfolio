@@ -1,21 +1,25 @@
 # Testing-Portfolio
-This repository includes my non-comercial testing projects
+This repository includes my non-comercial testing projects and information about my desting skills
 
 # About me
-My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I learnd basics of Python programming language as well and in my free time I traine new skills. From some time I started prepare my non-comercial testing projects and testing web applications. My goal is to develop testing knowlage and technical skills and gain knowladge about automation testing in the future. I would like to share my experience and some documentation I prepared in Polish and English. I will be publish here my latest projects, so be ready and visit this repository regular :)
+My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I learnd basics of Python programming language as well and in my free time I do some programming exercises. I started prepare my non-comercial testing projects and testing web applications. My goal is to develop testing knowlage and technical skills and gain knowladge about automation testing in the future. I would like to share my experience and some documentation prepared in Polish and English. I will be publish here my latest projects, so be ready and visit this repository regular :)
 
-# Toolstesting web applications
+# Tools
 
-Postman - Testing tool for REST API
-Jira, Trello - Issue tracking and project management tool for developers
-Github
+*Postman - Testing tool for REST API
+*Jira, Trello - Issue tracking and project management tool for developers
+*Github
+*Qtest
+*Test Link
+*Google Chrome Developer Tools
+*Visual Studio Code
 
 # Tech skills
-basics of SQL
-Chrome DevTools
-SCRUM
-Software testing
-Creating test cases
+
+* SQL
+* Python
+* Software testing
+* Creating test cases
 Reporting bugs
 Finding uniqe CSS Selectors and xPaths
 Creating diagrams and decision tables
