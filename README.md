@@ -80,6 +80,7 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 
 * Tests for web application iPrzedszkole
 *on Trello - https://trello.com/b/UElPfCQQ
+
 *on my Google Disc
 * Exploratory testing for a CRM company and prepared test documentation for full CRUD features 
 
