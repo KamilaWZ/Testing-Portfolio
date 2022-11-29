@@ -62,19 +62,19 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 # Testing and programming projects I participate
 
 * Cherry IT - non-comerciat testing project  (19th October 2022 – 14th December 2022)
-*prepared test cases
-*practiced using Google Chrome Developer Tools for diagnosing defects
-*reported bugs
-*performed exploratory, functional, acceptance and frontend testing
+  * prepared test cases
+  * practiced using Google Chrome Developer Tools for diagnosing defects
+  * reported bugs
+  * performed exploratory, functional, acceptance and frontend testing
 
 * TechLeaders free mentoring program - practical development with the support of mentors (February 2022 – April 2022)
-*learnt simple CRUD application construction
-*learnt the Scrum framework basics
+  * learnt simple CRUD application construction
+  * learnt the Scrum framework basics
 
 * DareIT free mentoring program (September 2021 – February 2022)
-*used Python for creating scripts and basic CRUD application
-*developmend in Visual Studio Code editor
-*learned and practiced working using GIT system
+  * used Python for creating scripts and basic CRUD application
+  * developmend in Visual Studio Code editor
+  * learned and practiced working using GIT system
 
 # My projects
 
