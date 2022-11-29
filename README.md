@@ -23,7 +23,7 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 *reporting bugs
 *test reports
 *basic plan of tests
-* basic REST API architecture knowledge
+* Basic REST API architecture knowledge
 * SQL
 * Python
 * GIT
