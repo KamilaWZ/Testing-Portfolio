@@ -6,60 +6,78 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 
 # Tools
 
-*Postman - Testing tool for REST API
-*Jira, Trello - Issue tracking and project management tool for developers
-*Github
-*Qtest
-*Test Link
-*Google Chrome Developer Tools
-*Visual Studio Code
+* Postman - Testing tool for REST API
+* Google Chrome Developer Tools
+* Jira, Trello - Issue tracking and project management tool for developers
+* Qtest
+* Test Link
+* Visual Studio Code
+* Github
 
 # Tech skills
 
-* SQL
-* Python
 * Software testing
-* Creating test cases
-Reporting bugs
-Finding uniqe CSS Selectors and xPaths
-Creating diagrams and decision tables
-Certificates
-ISTQB - No. 73599
-Courses
-CODE:ME Podstawy testowania w praktyce
-Gfi Technology Academy
-Books
-R.Smilgin - Zawód tester
-Groups on Facebook
-Tester oprogramowania - wsparcie na starcie
-Testowanie oprogramowania
-Girls Who Tests
-Gildia Testerów
-Recommended blogs
-testerzy.pl
-testuj.pl - Test, Bugs & Rock'n'Roll
-remigiuszbednarczyk.pl
-pwicherski.gitbook.io
-GeekON
-Webinars
-GeekON - praktyczne ćwiczenie SQL
-Szkoła testera - podstawy testowania
-Articles
-Article about creating portfolio in GitHub using my portfolio as example
-My test case examples
-Test cases for site lubimyczytac.pl
-My bug reports
-Bugs reported for jakdojade.pl site
-My examples of diagrams and decision tables
-Diagrams and decision tables for stoper, railway lights and registration
-My examples of CSS Selectors and xPaths
-Finding uniqe CSS Selectors and xPaths on site ikea.pl
-My projects
-Group project - leader - testing site allegro.pl
-Tablica trello.com
-Individual project - testing site zara.com
-Report
-Test cases
-Test cases - regression testing
-Mind map
-Automated Postman tests
+* Creating test documentation
+*test cases
+*testing scenarios
+*reporting bugs
+*test reports
+*basic plan of tests
+* basic REST API architecture knowledge
+* * SQL
+* Python
+* GIT
+
+# Certificates
+* ISTQB - No. 59938
+* PCEP - Cerified Entry Level Python Programmer 
+
+# Courses
+
+* ISTQB Course Fundacja IT, Szczecin 2018
+* Python Programming Course, Fundacja IT, Szczecin 2021
+* SQL from beginner to and expert Course, September-November 2022
+* Potman basics course, September-November 2022
+
+# Groups on Facebook
+
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* Programuj dziewczyno
+
+# Recommended blogs
+* [testerzy.pl]
+* [testuj.pl] - Test, Bugs & Rock'n'Roll
+* [pwicherski.gitbook.io]
+* [http://cherry-it.pl/]
+* [https://www.wyszkolewas.com.pl/]
+* [https://www.flynerd.pl/]
+
+# Recommended YouTube channels about testing
+
+* TestITka - [https://www.youtube.com/channel/UCrl6b8MxVxuW06Jba0XYZSg]
+* Testowanie oprogramowania podcast - [https://www.youtube.com/playlist?list=PLKQUQ-h24rffw7uDYY1xC87c76P93A758]
+
+
+# Free testing and programming projects I participate
+
+* Cherry IT - non-comerciat testing project  (19th October 2022 – 14th December 2022)
+*prepared test cases
+*practiced using Google Chrome Developer Tools for diagnosing defects
+*reported bugs
+*performed exploratory, functional, acceptance and frontend testing
+
+* TechLeaders free mentoring program - practical development with the support of mentors (February 2022 – April 2022)
+*learnt simple CRUD application construction
+*learnt the Scrum framework basics
+
+* DareIT free mentoring program (September 2021 – February 2022)
+*used Python for creating scripts and basic CRUD application
+*developmend in Visual Studio Code editor
+*learned and practiced working using GIT system
+
+# My projects
+
+* Tests for web application iPrzedszkole
+* Exploratory testing for a CRM company and prepared test documentation for full CRUD features 
+
