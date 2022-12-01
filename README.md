@@ -19,6 +19,7 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 * Test Link
 * Visual Studio Code
 * Github
+* PostgreSQL
 
 # Tech skills
 
@@ -33,6 +34,7 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 * SQL
 * Python
 * GIT
+* basic LINUX commands
 
 # Certificates
 * [ISTQB - No. 59938](http://scr.istqb.org/?name=Kamila+Walaszczyk-Ziomek&number=59938&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
