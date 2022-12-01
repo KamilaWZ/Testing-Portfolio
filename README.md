@@ -81,6 +81,6 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
 
 * [Tests of web application iPrzedszkole on Trello](https://trello.com/b/UElPfCQQ) - here You can find my documentation made for testing web aplication located on  https://iprzedszkole.progman.pl/ . App is an electronic system for kindergardens, module for parents. Documentation is on my public wall on Trello. In this documentation I collected plan of my tests, test scenarios, test cases, bug reports and report of test. 
 
-* https://drive.google.com/drive/folders/1SzccsEQYFoTeGZOsLJKBoAWkSf2 tw3WT?usp=sharing - here You ca find test documentation I prepared for testing webapplication for business project managment - module costs and incomes. It is located on my google disc. You can find here test scenario, test cases, bug reports and reporthere you ca find test docume from tests.
+* [Business project managment app)(https://drive.google.com/drive/folders/1SzccsEQYFoTeGZOsLJKBoAWkSf2tw3WT?usp=sharing) - here You ca find test documentation I prepared for testing webapplication for business project managment - module costs and incomes. It is located on my google disc. You can find here test scenario, test cases, bug reports and reporthere you ca find test docume from tests.
 
 
