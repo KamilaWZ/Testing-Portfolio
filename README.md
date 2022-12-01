@@ -4,6 +4,12 @@ This repository includes my non-comercial testing projects and information about
 # About me
 My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I learnd basics of Python programming language as well and in my free time I do some programming exercises. I started prepare my non-comercial testing projects and testing web applications. My goal is to develop testing and technical skills and to gain knowladge about automation testing in the future. I would like to share my experience and some documentation prepared in Polish and English. I will be publish here my latest projects, so be ready and visit this repository regular :)
 
+# My projects - testing documentation
+
+* [Tests of web application iPrzedszkole on Trello](https://trello.com/b/UElPfCQQ) - here You can find my documentation made for testing web aplication located on  https://iprzedszkole.progman.pl/ . App is an electronic system for kindergardens, module for parents. Documentation is on my public wall on Trello. In this documentation I collected plan of my tests, test scenarios, test cases, bug reports and report of test. 
+
+* https://drive.google.com/drive/folders/1SzccsEQYFoTeGZOsLJKBoAWkSf2tw3WT?usp=sharing - here You ca find test documentation I prepared for testing webapplication for business project managment - module costs and incomes. It is located on my google disc. You can find here test scenario, test cases, bug reports and reporthere you ca find test docume from tests.
+
 # Tools
 
 * Postman - Testing tool for REST API
@@ -77,10 +83,6 @@ My name is Kamila Walaszczyk-Ziomek. I am passionate of software testing. I lear
   * developmend in Visual Studio Code editor
   * learned and practiced working using GIT system
 
-# My projects - testing documentation
 
-* [Tests of web application iPrzedszkole on Trello](https://trello.com/b/UElPfCQQ) - here You can find my documentation made for testing web aplication located on  https://iprzedszkole.progman.pl/ . App is an electronic system for kindergardens, module for parents. Documentation is on my public wall on Trello. In this documentation I collected plan of my tests, test scenarios, test cases, bug reports and report of test. 
-
-* [Business project managment app)(https://drive.google.com/drive/folders/1SzccsEQYFoTeGZOsLJKBoAWkSf2tw3WT?usp=sharing) - here You ca find test documentation I prepared for testing webapplication for business project managment - module costs and incomes. It is located on my google disc. You can find here test scenario, test cases, bug reports and reporthere you ca find test docume from tests.
 
 
