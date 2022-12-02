@@ -43,11 +43,11 @@ I'm Kamila, a true software testing enthusiast. As I am familiar with the basics
 
 * Software testing
 * Creating test documentation:
- * test cases
- * test scenarios
- * reporting bugs
- * test reports
- * basic plan of tests
+  * Test cases
+  * Test scenarios
+  * Reporting bugs
+  * Test reports
+* basic plan of tests
 * Basic REST API architecture knowledge
 * SQL
 * Python
