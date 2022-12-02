@@ -10,8 +10,7 @@ I'm Kamila, a true software testing enthusiast. As I am familiar with the basics
 
 * https://drive.google.com/drive/folders/1SzccsEQYFoTeGZOsLJKBoAWkSf2tw3WT?usp=sharing - here You can find the test documentation I prepared for testing a web application for business project management - module costs and incomes. It is located on my Google Drive. You can find here test scenarios, test cases, bug reports, and reports from tests.
 
-# Testing and programming projects in which 
-# I participated
+# Testing and programming projects in which I participated
 
 * [Cherry IT](http://cherry-it.pl/): non-commerciat testing project 
   * Prepared test cases
