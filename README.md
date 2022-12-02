@@ -30,14 +30,12 @@ I'm Kamila, a true software testing enthusiast. As I am familiar with the basics
 
 # Tools
 
-* Postman: testing tool for REST API
+* Testing tool for REST API: Postman
 * Google Chrome Developer Tools
-* Jira, Trello: issue tracking and project management tools for developers
-* Qtest
-* Test Link
-* Visual Studio Code
+* Issue tracking and project management tools: Jira, Trello, QTest, TestLink
+* IDE: Visual Studio Code, Jupyter Notebook, PyCharm
+* Databases: PostgreSQL
 * Github
-* PostgreSQL
 
 # Tech skills
 
@@ -47,12 +45,12 @@ I'm Kamila, a true software testing enthusiast. As I am familiar with the basics
   * Test scenarios
   * Reporting bugs
   * Test reports
-* basic plan of tests
+  * Basic plan of tests
 * Basic REST API architecture knowledge
-* SQL
-* Python
-* GIT
-* Basic Linux commands
+* Programming languages: Python, SQL
+* Frameworks: Django
+* Version control system: GIT
+* Operating system: Windows, Basic Linux commands
 
 # Certificates
 * [ISTQB - No. 59938](http://scr.istqb.org/?name=Kamila+Walaszczyk-Ziomek&number=59938&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
