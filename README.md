@@ -12,17 +12,17 @@ I'm Kamila, a true software testing enthusiast. As I am familiar with the basics
 
 # Testing and programming projects in which I participated
 
-* Cherry IT - non-commerciat testing project 
+* [Cherry IT](http://cherry-it.pl/): non-commerciat testing project 
   * Prepared test cases
   * Practiced using Google Chrome Developer Tools for diagnosing defects
   * Reported bugs
   * Performed exploratory, functional, acceptance, and front-end testing.
 
-* TechLeaders free mentoring program - practical development with the support of mentor
+* [TechLeaders](https://techleaders.eu/): free mentoring program - practical development with the support of mentor
   * Learned simple CRUD application construction
   * Learned the fundamentals of the Scrum framework.
 
-* DareIT free mentoring program 
+* [DareIT](https://www.dareit.io/): free mentoring program - practical development with the support of mentor
   * Used Python for creating scripts and basic CRUD application
   * Create code in Visual Studio Code editor
   * Learned and practiced working with the GIT system.
