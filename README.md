@@ -1,4 +1,4 @@
-# Testing-Portfolio
+# Portfolio
 This repository includes my non-commercial testing projects and information about my testing skills.
 
 # About me
