@@ -6,9 +6,11 @@ I'm Kamila, a true software testing enthusiast. As I am familiar with the basics
 
 # My projects - testing documentation
 
-* [Tests of web application iPrzedszkole on Trello](https://trello.com/b/UElPfCQQ) - here You can find my documentation made for testing web application located at  https://iprzedszkole.progman.pl/ . App is an electronic system for kindergardens, module for parents. Documentation is on my public wall on Trello. In this documentation I collected plan of my tests, test scenarios, test cases, bug reports and report of test. 
-
-* https://drive.google.com/drive/folders/1SzccsEQYFoTeGZOsLJKBoAWkSf2tw3WT?usp=sharing - here You can find the test documentation I prepared for testing a web application for business project management - module costs and incomes. It is located on my Google Drive. You can find here test scenarios, test cases, bug reports, and reports from tests.
+Here You can find my documentation made for testing web application located at  https://iprzedszkole.progman.pl/ . The app is an electronic system for kindergardens, module for parents. I collected plan of my tests, test scenarios, test cases, bug reports and report of test, as below:
+*  [Test plan](https://github.com/KamilaWZ/Testing-Portfolio/files/10343504/Plan.testow.pdf)
+*  [Test scenarios](https://github.com/KamilaWZ/Testing-Portfolio/files/10343480/Scenariusz.testowy.pdf)
+*  [Bugs report.pdf](https://github.com/KamilaWZ/Testing-Portfolio/files/10343505/Bugs.report.pdf)
+*  [Test report](https://github.com/KamilaWZ/Testing-Portfolio/files/10343502/Raport.z.testow.pdf)
 
 # Testing and programming projects in which I participated
 
@@ -69,4 +71,6 @@ I'm Kamila, a true software testing enthusiast. As I am familiar with the basics
 
 
 
-[Scenariusz testowy.pdf](https://github.com/KamilaWZ/Testing-Portfolio/files/10343480/Scenariusz.testowy.pdf)
+
+
+
