@@ -69,3 +69,4 @@ I'm Kamila, a true software testing enthusiast. As I am familiar with the basics
 
 
 
+[Scenariusz testowy.pdf](https://github.com/KamilaWZ/Testing-Portfolio/files/10343480/Scenariusz.testowy.pdf)
