@@ -2,7 +2,7 @@
 This repository includes my non-commercial testing projects and information about my testing skills.
 
 # About me
-I'm Kamila, a true software testing enthusiast. As I am familiar with the basics of Python, I started testing web applications, which resulted in non-commercial testing projects. My goal is to develop my testing and technical skills as well as gain knowledge about automated testing. Please find below documentation that I am working on both in Polish and English. Feel free to visit this repository regularly, as my latest projects can be found here! 🙂 
+I'm Kamila, a true quality assurance and software testing enthusiast. As I am familiar with the basics of Python, I started testing web applications, which resulted in non-commercial testing projects. My goal is to develop my testing and technical skills as well as gain knowledge about automated testing. Please find below documentation that I am working on both in Polish and English. Feel free to visit this repository regularly, as my latest projects can be found here! 🙂 
 
 # My current projects
 
