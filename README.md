@@ -4,12 +4,12 @@ This repository includes my non-commercial testing projects and information abou
 # About me
 I'm Kamila, a true software testing enthusiast. As I am familiar with the basics of Python, I started testing web applications, which resulted in non-commercial testing projects. My goal is to develop my testing and technical skills as well as gain knowledge about automated testing. Please find below documentation that I am working on both in Polish and English. Feel free to visit this repository regularly, as my latest projects can be found here! 🙂 
 
-# My projects - testing documentation
+# My current projects
 
-Here You can find my documentation made for testing web application located at  https://iprzedszkole.progman.pl/ . The app is an electronic system for kindergardens, module for parents. I collected plan of my tests, test scenarios, test cases, bug reports and report of test, as below:
+Here, you can find my documentation for testing web applications located at https://iprzedszkole.progman.pl/. The app is an electronic system for kindergartens with a module for parents. I collected a plan of my tests, test scenarios, test cases, bug reports, and a report of my tests, as below:
 *  [Test plan](https://github.com/KamilaWZ/Testing-Portfolio/files/10343504/Plan.testow.pdf)
 *  [Test scenarios](https://github.com/KamilaWZ/Testing-Portfolio/files/10343480/Scenariusz.testowy.pdf)
-*  [Bugs report.pdf](https://github.com/KamilaWZ/Testing-Portfolio/files/10343505/Bugs.report.pdf)
+*  [Bugs report](https://github.com/KamilaWZ/Testing-Portfolio/files/10343505/Bugs.report.pdf)
 *  [Test report](https://github.com/KamilaWZ/Testing-Portfolio/files/10343502/Raport.z.testow.pdf)
 
 # Testing and programming projects in which I participated
@@ -50,7 +50,7 @@ Here You can find my documentation made for testing web application located at  
   * Basic plan of tests
 * Basic REST API architecture knowledge
 * Programming languages: Python, SQL
-* Frameworks: Django
+* Frameworks: Scrum
 * Version control system: GIT
 * Operating system: Windows, Basic Linux commands
 
