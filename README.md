@@ -14,7 +14,7 @@ Here, you can find my documentation for testing web applications located at http
 
 # Testing and programming projects in which I participated
 
-* [Cherry IT](http://cherry-it.pl/): non-commerciat testing project 
+* [Cherry IT 2/2022 Testing Project](http://cherry-it.pl/): non-commerciat testing project 
   * Prepared test cases
   * Practiced using Google Chrome Developer Tools for diagnosing defects
   * Reported bugs
