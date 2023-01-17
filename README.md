@@ -18,6 +18,8 @@ Here, you can find my documentation for testing web applications located at http
 
 * [Dare IT Challenge - QA/Manual Testing](https://www.dareit.io/challenges/qa-manual-testing): 7-weeks practical software testing tasks with the support of mentor
 
+* [Cherry IT Secret GIT Project](http://cherry-it.pl/)
+
 * [Cherry IT 2/2022 Trello Testing Project](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello/): non-commercial 2-months testing project 
   * Prepared test cases
   * Practiced using Google Chrome Developer Tools for diagnosing defects
@@ -59,7 +61,7 @@ Here, you can find my documentation for testing web applications located at http
 * Operating system: Windows, Basic Linux commands
 
 # Certificates
-* [ISTQB - No. 59938](http://scr.istqb.org/?name=Kamila+Walaszczyk-Ziomek&number=59938&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
+* [ISTQB Fouldation Level No. 59938](http://scr.istqb.org/?name=Kamila+Walaszczyk-Ziomek&number=59938&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
 * [PCEP - Cerified Entry Level Python Programmer](https://www.credly.com/badges/db85fb42-345a-4112-8735-ccc37c455266?source=linked_in_profile)
 
 # Courses
