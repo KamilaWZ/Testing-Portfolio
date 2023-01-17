@@ -14,17 +14,21 @@ Here, you can find my documentation for testing web applications located at http
 
 # Testing and programming projects in which I participated
 
-* [Cherry IT 2/2022 Testing Project](http://cherry-it.pl/): non-commerciat testing project 
+* [Quality Assurance Academy by Adam Gola](https://szkoleniedlaqa.pl/)
+
+* [Dare IT Challenge - QA/Manual Testing](https://www.dareit.io/challenges/qa-manual-testing): 7-weeks practical software testing tasks with the support of mentor
+
+* [Cherry IT 2/2022 Trello Testing Project](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello/): non-commercial 2-months testing project 
   * Prepared test cases
   * Practiced using Google Chrome Developer Tools for diagnosing defects
   * Reported bugs
   * Performed exploratory, functional, acceptance, and front-end testing.
 
-* [TechLeaders](https://techleaders.eu/): free mentoring program - practical development with the support of mentor
+* [Tech Leaders Mentoring Programme](https://techleaders.eu/): free mentoring program - practical development with the support of mentor
   * Learned simple CRUD application construction
   * Learned the fundamentals of the Scrum framework.
 
-* [DareIT](https://www.dareit.io/): free mentoring program - practical development with the support of mentor
+* [Dare IT Mentoring Programme](https://www.dareit.io/): free mentoring program - practical development with the support of mentor
   * Used Python for creating scripts and basic CRUD application
   * Create code in Visual Studio Code editor
   * Learned and practiced working with the GIT system.
