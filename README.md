@@ -21,19 +21,22 @@ Here, you can find my documentation for testing web applications located at http
 * [Cherry IT Secret GIT Project](http://cherry-it.pl/)
 
 * [Cherry IT 2/2022 Trello Testing Project](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello/): non-commercial 2-months testing project 
-  * Prepared test cases
-  * Practiced using Google Chrome Developer Tools for diagnosing defects
-  * Reported bugs
-  * Performed exploratory, functional, acceptance, and front-end testing.
+  * familiarised Participants with the Scrum methodology and the ceremony associated with Scrum (daily),
+  * gained skills related to reporting and reporting bugs,
+  * acquired skills related to the creation of test cases,
+  * used Devtools (work was focused on learning and understanding the Console and Network tabs)
+  * prepared test cases
+  * reported bugs
+  * performed exploratory, functional, acceptance, and front-end testing.
 
 * [Tech Leaders Mentoring Programme](https://techleaders.eu/): free mentoring program - practical development with the support of mentor
-  * Learned simple CRUD application construction
-  * Learned the fundamentals of the Scrum framework.
+  * learned simple CRUD application construction
+  * learned the fundamentals of the Scrum framework.
 
 * [Dare IT Mentoring Programme](https://www.dareit.io/): free mentoring program - practical development with the support of mentor
-  * Used Python for creating scripts and basic CRUD application
-  * Create code in Visual Studio Code editor
-  * Learned and practiced working with the GIT system.
+  * used Python for creating scripts and basic CRUD application
+  * create code in Visual Studio Code editor
+  * learned and practiced working with the GIT system.
 
 
 # Tools
