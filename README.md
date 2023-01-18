@@ -42,11 +42,11 @@ Here, you can find my documentation for testing web applications located at http
 # Tools
 
 * Testing tool for REST API: Postman
-* Google Chrome Developer Tools
+* Testing support tools: Google Chrome Developer Tools, Bird eats bugs, Sharex, Screenpresso
 * Issue tracking and project management tools: Jira, Trello, QTest, TestLink
-* IDE: Visual Studio Code, Jupyter Notebook, PyCharm
 * Databases: PostgreSQL
 * Github
+* IDE: Visual Studio Code, Jupyter Notebook, PyCharm
 
 # Tech skills
 
