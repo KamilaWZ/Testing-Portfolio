@@ -2,9 +2,9 @@
 This repository includes my non-commercial testing projects and information about my testing skills.
 
 # About me
-I'm Kamila, a true quality assurance and software testing enthusiast. As I am familiar with the basics of Python, I started testing web applications, which resulted in non-commercial testing projects. My goal is to develop my testing and technical skills as well as gain knowledge about automated testing. Please find below documentation that I am working on both in Polish and English. Feel free to visit this repository regularly, as my latest projects can be found here! 🙂 
+I'm Kamila, a true quality assurance and software testing enthusiast. As I am familiar with the basics of Python, I started testing web applications, which resulted in non-commercial testing projects. My goal is to develop my testing and technical skills as well as gain knowledge about automated testing. Please find below documentation that I am working on both in Polish and English. Feel free to visit this repository regularly, as my latest projects can be found here!
 
-# My current projects
+# My current projects  :star: 
 
 Here, you can find my documentation for testing web applications located at https://iprzedszkole.progman.pl/. The app is an electronic system for kindergartens with a module for parents. I collected a plan of my tests, test scenarios, test cases, bug reports, and a report of my tests, as below:
 *  [Test plan](https://github.com/KamilaWZ/Testing-Portfolio/files/10343504/Plan.testow.pdf)
@@ -12,7 +12,7 @@ Here, you can find my documentation for testing web applications located at http
 *  [Bugs report](https://github.com/KamilaWZ/Testing-Portfolio/files/10343505/Bugs.report.pdf)
 *  [Test report](https://github.com/KamilaWZ/Testing-Portfolio/files/10343502/Raport.z.testow.pdf)
 
-# Testing and programming projects in which I participated
+# Testing and programming projects in which I participated :rocket: :rocket: :rocket:
 
 * [Quality Assurance Academy by Adam Gola](https://szkoleniedlaqa.pl/)
 
