@@ -74,6 +74,12 @@ Here, you can find my documentation for testing web applications located at http
 * SQL course: from beginner to expert, September-November 2022
 * Postman fundamentals course, September-November 2022
 
+# My favourite QA and testing YouTube channels
+
+* [Testelka](https://www.youtube.com/@testelka/featured)
+* [TestITka](https://www.youtube.com/@TestITka)
+* [Norbert Jankowski - Testowanie oprogramowania - podcasts](https://www.youtube.com/@TestowaniePodcast)
+
 
 
 
