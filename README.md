@@ -29,11 +29,11 @@ Here, you can find my documentation for testing web applications located at http
   * reported bugs
   * performed exploratory, functional, acceptance, and front-end testing.
 
-* [Tech Leaders Mentoring Programme](https://techleaders.eu/): free mentoring program - practical development with the support of mentor
+* [Tech Leaders Mentoring Programme](https://techleaders.eu/): free mentoring programme - practical development with the support of mentor
   * learned simple CRUD application construction
   * learned the fundamentals of the Scrum framework.
 
-* [Dare IT Mentoring Programme](https://www.dareit.io/): free mentoring program - practical development with the support of mentor
+* [Dare IT Mentoring Programme](https://www.dareit.io/): free mentoring programme - practical development with the support of mentor
   * used Python for creating scripts and basic CRUD application
   * create code in Visual Studio Code editor
   * learned and practiced working with the GIT system.
