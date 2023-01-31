@@ -4,13 +4,23 @@ This repository includes my non-commercial testing projects and information abou
 # About me
 I'm Kamila, a true quality assurance and software testing enthusiast. As I am familiar with the basics of Python, I started testing web applications, which resulted in non-commercial testing projects. My goal is to develop my testing and technical skills as well as gain knowledge about automated testing. Please find below documentation that I am working on both in Polish and English. Feel free to visit this repository regularly, as my latest projects can be found here!
 
-# My current projects  :star: 
+# :star:  My current projects  :star: 
 
-Here, you can find my documentation for testing web applications located at https://iprzedszkole.progman.pl/. The app is an electronic system for kindergartens with a module for parents. I collected a plan of my tests, test scenarios, test cases, bug reports, and a report of my tests, as below:
+
+## Testing for iPrzedszkole app
+
+Here, you can find my documentation for testing [iPrzedszkole](https://iprzedszkole.progman.pl/) web application. The app is an electronic system for kindergartens with a module for parents. I collected a plan of my tests, test scenarios, test cases, bug reports, and a report of my tests, as below: :point_down:
+
 *  [Test plan](https://github.com/KamilaWZ/Testing-Portfolio/files/10343504/Plan.testow.pdf)
 *  [Test scenarios](https://github.com/KamilaWZ/Testing-Portfolio/files/10343480/Scenariusz.testowy.pdf)
 *  [Bugs report](https://github.com/KamilaWZ/Testing-Portfolio/files/10343505/Bugs.report.pdf)
 *  [Test report](https://github.com/KamilaWZ/Testing-Portfolio/files/10343502/Raport.z.testow.pdf)
+
+## Dare IT Challenge - Portoflio
+
+On this project, I practice my testing skills on a real web application project. As a result, I developed a set of testware. You can see them all here:
+
+:point_right:   [Challenge Portfolio](https://github.com/KamilaWZ/Challenge_Portfolio)
 
 # Testing and programming projects in which I participated :rocket: :rocket: :rocket:
 
