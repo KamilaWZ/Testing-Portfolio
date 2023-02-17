@@ -1,11 +1,45 @@
 # Portfolio
-This repository includes my non-commercial testing projects and information about my testing skills.
+This repository includes my testing projects and information about my testing and quality assurance skills.
+
+# Table of Contents
+
+* [About me](#about-me)
+* [Testing documentation I created](#testing-documentation-i-created)
+* [Testing and programming projects in which I participated](#testing-and-programming-projects-in-which-i-participated)
+* [Tools](#tools)
+* [Tech skills](#tech-skills)
+* [Certificates](#certificates)
+* [Courses](#courses)
+* [My favourite QA and testing YouTube channels](#my-favourite-qa-and-testing-youtube-channels)
+* [Books I recommend](#books-i-recommend)
+
 
 # About me
-I'm Kamila, a true quality assurance and software testing enthusiast. As I am familiar with the basics of Python, I started testing web applications, which resulted in non-commercial testing projects. My goal is to develop my testing and technical skills as well as gain knowledge about automated testing. Please find below documentation that I am working on both in Polish and English. Feel free to visit this repository regularly, as my latest projects can be found here!
+I'm Kamila, a true quality assurance and software testing enthusiast. As I am familiar with the basics of Python, I started testing web applications, which resulted in my non-commercial testing projects. My goal is to develop my testing and technical skills as well as gain knowledge about automated testing. Please find below documentation that I am working on both in Polish and English. Feel free to visit this repository regularly, as my latest projects can be found here!
 
-# :star:  My current projects  :star: 
+# Testing documentation I created 
 
+
+## Dare IT Challenge - Portoflio
+
+On this project, I practiced my testing skills on a real web applications. As a result, I developed a set of testware:
+
+:bulb:[Test cases based on User stories for Futball Scaut App](https://docs.google.com/document/d/1TrRUwC-ZhLGTpM-TeEHJJNnbrRG2KVV8UPupftnk7U0/edit?usp=sharing)
+
+:bulb: [Test cases based on experience for Futball Scaut App - exploratory testing](https://docs.google.com/document/d/1rNam7fzTw9favo2SR1Jr4JxTES8Q9yyqaLo_9nFacB8/edit?usp=sharing)
+
+:bulb: [Test cases for the application Pick Eat Up - exploratory testing](https://docs.google.com/document/d/1CartUoaSvK71w28mb8sJpO26JqBTWezALNNZea-6Q0M/edit?usp=sharing)
+
+:bulb: [Bugs Report](https://docs.google.com/document/d/1Ag6beCPENZeE5BKXmksOxh-zIDabtTkhEYozjRtrE3U/edit?usp=sharing)
+
+:bulb: [Final Test Report](https://docs.google.com/document/d/1usfaDs6SKqvcSqd9MfontmRI76_McfBrOBAV7sJTf2g/edit?usp=sharing)
+
+:bulb: [Mobile testing - bugs report - examples for OLX mibile app](https://docs.google.com/spreadsheets/d/1oUs1evyJmG12yDra0VEL7oDvgrAoWJkgntjJrCDbHqs/edit?usp=sharing)
+
+
+
+
+All tasks I passed during the programm You can see here:  :point_right:   [Challenge Portfolio](https://github.com/KamilaWZ/Challenge_Portfolio)
 
 ## Testing for iPrzedszkole app
 
@@ -16,17 +50,11 @@ Here, you can find my documentation for testing [iPrzedszkole](https://iprzedszk
 *  [Bugs report](https://github.com/KamilaWZ/Testing-Portfolio/files/10343505/Bugs.report.pdf)
 *  [Test report](https://github.com/KamilaWZ/Testing-Portfolio/files/10343502/Raport.z.testow.pdf)
 
-## Dare IT Challenge - Portoflio
-
-On this project, I practice my testing skills on a real web application project. As a result, I developed a set of testware. You can see them all here:
-
-:point_right:   [Challenge Portfolio](https://github.com/KamilaWZ/Challenge_Portfolio)
-
-# Testing and programming projects in which I participated :rocket: :rocket: :rocket:
+# Testing and programming projects in which I participated
 
 * [Quality Assurance Academy by Adam Gola](https://szkoleniedlaqa.pl/)
 
-* [Dare IT Challenge - QA/Manual Testing](https://www.dareit.io/challenges/qa-manual-testing): 7-weeks practical software testing tasks with the support of mentor
+* [Dare IT Challenge - QA/Manual Testing](https://www.dareit.io/challenges/qa-manual-testing): practical software testing tasks with the support of mentors
 
 * [Cherry IT Secret GIT Project](http://cherry-it.pl/)
 
@@ -89,6 +117,8 @@ On this project, I practice my testing skills on a real web application project.
 * [Testelka](https://www.youtube.com/@testelka/featured)
 * [TestITka](https://www.youtube.com/@TestITka)
 * [Norbert Jankowski - Testowanie oprogramowania - podcasts](https://www.youtube.com/@TestowaniePodcast)
+
+# Books I recommend
 
 
 
