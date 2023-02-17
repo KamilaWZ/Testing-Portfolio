@@ -22,7 +22,7 @@ I'm Kamila, a true quality assurance and software testing enthusiast. As I am fa
 
 ## Dare IT Challenge - Portoflio
 
-On this project, I practiced my testing skills on a real web applications. As a result, I developed a set of testware:
+In this project, I trained my testing skills by working with web and mobile applications.As a result, I developed a set of testware:
 
 :bulb:[Test cases based on User stories for Futball Scaut App](https://docs.google.com/document/d/1TrRUwC-ZhLGTpM-TeEHJJNnbrRG2KVV8UPupftnk7U0/edit?usp=sharing)
 
@@ -43,7 +43,7 @@ All tasks I passed during the programm You can see here:  :point_right:   [Chall
 
 ## Testing for iPrzedszkole app
 
-Here, you can find my documentation for testing [iPrzedszkole](https://iprzedszkole.progman.pl/) web application. The app is an electronic system for kindergartens with a module for parents. I collected a plan of my tests, test scenarios, test cases, bug reports, and a report of my tests, as below: :point_down:
+Below, you can find my documentation for testing [iPrzedszkole](https://iprzedszkole.progman.pl/) web application. The app is an electronic system for kindergartens with a module for parents. I collected a plan of my tests, test scenarios, test cases, bug reports, and a report of my tests, as below: :point_down:
 
 *  [Test plan](https://github.com/KamilaWZ/Testing-Portfolio/files/10343504/Plan.testow.pdf)
 *  [Test scenarios](https://github.com/KamilaWZ/Testing-Portfolio/files/10343480/Scenariusz.testowy.pdf)
@@ -53,6 +53,8 @@ Here, you can find my documentation for testing [iPrzedszkole](https://iprzedszk
 # Testing and programming projects in which I participated
 
 * [Quality Assurance Academy by Adam Gola](https://szkoleniedlaqa.pl/)
+
+
 
 * [Dare IT Challenge - QA/Manual Testing](https://www.dareit.io/challenges/qa-manual-testing): practical software testing tasks with the support of mentors
 
