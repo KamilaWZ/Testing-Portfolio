@@ -120,6 +120,8 @@ Here, you can find my documentation for testing [iPrzedszkole](https://iprzedszk
 
 # Books I recommend
 
+* *Kierunek jakość. Jak unikać błędów w projekcie.* Aleksandra Kunysz 
+
 
 
 
